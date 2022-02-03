@@ -13,14 +13,14 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://tende.com.co/assets/img/logo-fc.png
   name: Tende
-  introTitle: "**Tende**"
+  introTitle: "**Tende** Uptime"
   introMessage: Tende
   navbar:
     - title: Status
       href: /
-    - title: GitHub
+    - title: Tende
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
