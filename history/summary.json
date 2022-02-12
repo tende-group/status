@@ -4,9 +4,9 @@
     "url": "https://tende.com.co/",
     "icon": "https://favicons.githubusercontent.com/tende.com.co",
     "slug": "tende",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 271,
     "timeMonth": 253,
     "timeYear": 253,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-12": 0
+    }
   },
   {
     "name": "Tende-api",
     "url": "https://api.tende.com.co/",
     "icon": "https://favicons.githubusercontent.com/api.tende.com.co",
     "slug": "tende-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 467,
     "timeMonth": 422,
     "timeYear": 422,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-12": 0
+    }
   }
 ]
