@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/tende.com.co",
     "slug": "tende",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 260,
-    "timeDay": 231,
-    "timeWeek": 283,
-    "timeMonth": 260,
-    "timeYear": 260,
-    "dailyMinutesDown": {
-      "2022-02-12": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 263,
+    "timeDay": 334,
+    "timeWeek": 308,
+    "timeMonth": 263,
+    "timeYear": 263,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tende-api",
@@ -25,18 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/api.tende.com.co",
     "slug": "tende-api",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 442,
-    "timeDay": 567,
-    "timeWeek": 499,
-    "timeMonth": 442,
-    "timeYear": 442,
-    "dailyMinutesDown": {
-      "2022-02-12": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 454,
+    "timeDay": 681,
+    "timeWeek": 541,
+    "timeMonth": 454,
+    "timeYear": 454,
+    "dailyMinutesDown": {}
   }
 ]
