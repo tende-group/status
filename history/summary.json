@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/tende.com.co.ico",
     "slug": "tende",
     "status": "up",
-    "uptime": "99.12%",
+    "uptime": "99.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.81%",
+    "uptimeYear": "98.83%",
     "time": 316,
-    "timeDay": 144,
-    "timeWeek": 216,
+    "timeDay": 322,
+    "timeWeek": 244,
     "timeMonth": 269,
     "timeYear": 316,
     "dailyMinutesDown": {
@@ -25,8 +25,7 @@
       "2022-09-23": 1440,
       "2022-09-22": 1440,
       "2022-09-21": 814,
-      "2022-06-21": 22,
-      "2022-06-14": 123
+      "2022-06-21": 22
     }
   },
   {
@@ -35,16 +34,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.tende.com.co.ico",
     "slug": "tende-api",
     "status": "up",
-    "uptime": "99.12%",
+    "uptime": "99.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.81%",
-    "time": 680,
-    "timeDay": 267,
-    "timeWeek": 324,
-    "timeMonth": 364,
-    "timeYear": 671,
+    "uptimeYear": "98.83%",
+    "time": 679,
+    "timeDay": 396,
+    "timeWeek": 333,
+    "timeMonth": 363,
+    "timeYear": 670,
     "dailyMinutesDown": {
       "2023-04-17": 97,
       "2023-04-16": 0,
@@ -55,8 +54,7 @@
       "2022-09-23": 1440,
       "2022-09-22": 1440,
       "2022-09-21": 814,
-      "2022-06-21": 21,
-      "2022-06-14": 123
+      "2022-06-21": 21
     }
   }
 ]
